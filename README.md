@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am Tunar Babali. I am from Azerbaijan, Baku. 
+I am currently an undergraduate freshman CS student at Bilkent University
 <!--
 **tunar-12/tunar-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
